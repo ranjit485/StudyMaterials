@@ -1,5 +1,5 @@
 <h1>Computer Science Diploma Study Materials (MSBTE)</h1>
-<p>Welcome to the Computer Science Diploma Study Materials repository for the Maharashtra State Board of Technical Education (MSBTE). This repository aims to provide a centralized platform for sharing study materials, resources, and notes related to the computer science diploma curriculum offered by MSBTE.</p>
+<p> This repository aims to provide a centralized platform for sharing study materials, resources, and notes related to the computer science diploma curriculum offered by MSBTE.</p>
 <h2>Subjects</h2>
 <p>The repository is organized into folders for each subject included in the computer science diploma curriculum. Currently, the following subjects are covered :</p>
 <ul>
